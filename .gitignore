@@ -1,0 +1,18 @@
+# 网站相关文件 - 不推送到仓库
+index.html
+logo.webp
+CNAME
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp 
